@@ -46,10 +46,11 @@ Here are some sample results obtained using our trained Pix2Pix GAN model:
 ├── Dockerfile            # Dockerfile for containerization
 └── .gitignore            # Git ignore file
 
+
 ## Training
- -Clone repo 
- -install requirements - pip -r install requirements.txt
- -run python main.py
+ - Clone repo 
+ - install requirements - pip -r install requirements.txt
+ - run python main.py
 
 ## Acknowledgments
 
