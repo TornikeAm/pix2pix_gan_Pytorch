@@ -19,6 +19,7 @@ Here are some sample results obtained using our trained Pix2Pix GAN model:
  - Clone repo 
  - install requirements - pip -r install requirements.txt
  - run python main.py
+ - or pull directly from docker : docker pull tornikeam/pix2pix_gan:latest
 
 ## Acknowledgments
 
