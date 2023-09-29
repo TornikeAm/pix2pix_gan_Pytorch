@@ -25,27 +25,26 @@ Here are some sample results obtained using our trained Pix2Pix GAN model:
 
 ## Project Structure
 
-├── data/                 # Data directory
-│   ├── dataset.py        # Dataset handling
-│   ├── augmentation.py   # Data augmentation functions
-│   └── facades/          # Facades dataset directory
-│       ├── train/        # Training data
-│       ├── val/          # Validation data
-│       └── test/         # Test data
-├── models/               # Models directory
-│   ├── discriminator.py  # Discriminator model
-│   ├── generator.py      # Generator model
-├── generated/            # Generated images (output)
-├── input/                # Input images
-├── label/                # Label images
-├── utilities/            # Utilities directory
-│   ├── config.py         # Configuration settings
-├── main.py               # Main script for training and testing
-├── requirements.txt      # Python dependencies
-├── README.md             # Project README (you are here)
-├── Dockerfile            # Dockerfile for containerization
-└── .gitignore            # Git ignore file
-
+├── data/ # Data directory
+│ ├── dataset.py # Dataset handling
+│ ├── augmentation.py # Data augmentation functions
+│ └── facades/ # Facades dataset directory
+│ ├── train/ # Training data
+│ ├── val/ # Validation data
+│ └── test/ # Test data
+├── models/ # Models directory
+│ ├── discriminator.py # Discriminator model
+│ ├── generator.py # Generator model
+├── generated/ # Generated images (output)
+├── input/ # Input images
+├── label/ # Label images
+├── utilities/ # Utilities directory
+│ ├── config.py # Configuration settings
+├── main.py # Main script for training and testing
+├── requirements.txt # Python dependencies
+├── README.md # Project README (you are here)
+├── Dockerfile # Dockerfile for containerization
+└── .gitignore # Git ignore file
 
 ## Training
  - Clone repo 
