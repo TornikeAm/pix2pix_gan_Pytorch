@@ -6,12 +6,6 @@
 
 The Pix2Pix GAN model is a powerful architecture for various image translation tasks. It learns to map input images from one domain to output images in another domain. The model achieves this translation by training on a dataset containing paired images from both domains.
 
-## Features
-
-- **Image-to-Image Translation:** Transform images from one domain to another.
-- **Conditional GAN:** Utilizes conditional adversarial networks for improved results.
-- **High-Quality Outputs:** Generate high-quality translated images.
-
 ## Results
 
 Here are some sample results obtained using our trained Pix2Pix GAN model:
